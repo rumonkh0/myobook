@@ -1,16 +1,18 @@
-
 # Backbook
 
 This project is a clone of the popular social media platform, Facebook, built using the MERN stack (MongoDB, Express.js, React.js, Node.js, and Socket.io) With real time Messages and notifications 🔥.
 
 ## Demo
+
 https://backbook.vercel.app
 
 ## Backend Repository
-https://github.com/msobkyy/backbook-server
+
+https://github.com/rumonkh0/backbook-server
 
 ## Api Documentation
-[Documentation](https://documenter.getpostman.com/view/17180740/2s8Z73yrAk) 
+
+[Documentation](https://documenter.getpostman.com/view/17180740/2s8Z73yrAk)
 
 ## Features
 
@@ -50,8 +52,6 @@ https://github.com/msobkyy/backbook-server
 - Light/dark mode toggle.
 - Skeleton loaders while page loads.
 
-
-
 ## Screenshots
 
 ![1](https://user-images.githubusercontent.com/106025042/212144889-bb0c3c7d-9cc4-47d1-9e1e-eebc450260c7.jpg)
@@ -68,7 +68,6 @@ https://github.com/msobkyy/backbook-server
 ![7](https://user-images.githubusercontent.com/106025042/212144971-a031039c-dc59-465a-9659-c10aeb8e8ce0.jpg)
 ![8](https://user-images.githubusercontent.com/106025042/212144976-47ed76c2-1d39-4aeb-a15b-b09f8da544b4.jpg)
 ![9](https://user-images.githubusercontent.com/106025042/212144988-5c55041a-9fbd-41df-a2f4-96cc9d45168c.jpg)
-
 
 ## Installation
 
@@ -90,14 +89,12 @@ npm install
 npm start
 ```
 
-
-
 ## Deployment
 
 To deploy this project run
 
 ```bash
-  npm run build
+npm run build
 ```
 
 ## Environment Variables
@@ -106,22 +103,18 @@ To run this project, you will need to add the following environment variables to
 
 `REACT_APP_BACKEND_URL=`
 
-
-
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/msobkyy/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vsobky)
 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rumonkh/)
+[![twitter](https://img.shields.io/badge/-1DA1F2?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Rmonkhan)
 
 ## Authors
 
-- [@msobkyy](https://www.github.com/msobkyy)
-
+- [@rumonkh0](https://github.com/rumonkh0)
 
 ## 🚀 About Me
+
 I'm a MERN Stack Developer
-
-
 
 ## Tech Stack
 
